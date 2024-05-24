@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "id": "4d83",
+      "name": "mario y luigi",
+      "price": "70",
+      "image": "https://mifunko.com/img/cms/funkos-mario-bros.jpg"
+    },
+    {
+      "id": "b822",
+      "name": "mario y luigi",
+      "price": "200",
+      "image": "https://mifunko.com/img/cms/funkos-mario-bros.jpg"
+    },
+    {
+      "id": "8c00",
+      "name": "mario y luigi",
+      "price": "10",
+      "image": "https://mifunko.com/img/cms/funkos-mario-bros.jpg"
+    }
+  ]
+}
